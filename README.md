@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on creating a video streaming app using MERN stack.<br>🌱 I’m currently learning Docker.
+🔭 I’m currently working on creating a eraser.io clone.<br>🌱 I’m currently learning Docker.
 
 
 ## 🌐 Socials:
