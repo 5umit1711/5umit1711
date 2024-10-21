@@ -1,8 +1,11 @@
 # 💫 About Me
-🔭 I’m currently working on an exciting project to create a clone of eraser.io.<br>🌱 I’m also diving into the world of Docker to enhance my development skills.
+🔭 I’m currently working on creating an eraser.io clone.<br>
+🌱 I’m expanding my skill set by learning Docker.
 
-## 🌐 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__5umit___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumittt) 
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__5umit___) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumittt) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/_Sumit_1711_/)
 
 # 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -21,8 +24,8 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ✍️ Random Developer Quote
-> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=5umit1711&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
