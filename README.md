@@ -1,7 +1,6 @@
 # 💫 About Me
-🔭 I’m currently working on creating an eraser.io clone.<br>
-🌱 I’m expanding my skill set by learning Docker.
-
+🔭 I’m currently working on creating an eraser.io like website for my personal use.<br>
+🌱 🌱 Currently, I'm diving into Docker and Machine Learning to expand my development expertise. Open to collaborative projects and new learning opportunities, so feel free to connect!
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__5umit___) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumittt) 
