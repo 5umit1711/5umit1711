@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 I’m currently working on creating an eraser.io like website for my personal use.<br>
+🔭 I’m currently working on creating an job portal website.<br>
 🌱 Currently, I'm diving into Docker and Machine Learning to expand my development expertise. Open to collaborative projects and new learning opportunities, so feel free to connect!
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__5umit___) 
