@@ -2,7 +2,7 @@
 
 👋 Hi, I'm **Sumit**, a developer passionate about building useful applications and exploring new technologies.
 
-- 🔭 Currently building a **Job Portal Website**
+- 🔭 Currently Learning **RUST** and slowly losing my sanity, one compiler error at a time.
 - 🌱 Learning **Docker, Machine Learning, C, and Rust**
 - 💻 Interested in **Full-Stack Development, Systems Programming, and Software Engineering**
 - 🧩 Practicing problem-solving and Data Structures & Algorithms on LeetCode
