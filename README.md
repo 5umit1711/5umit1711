@@ -1,32 +1,104 @@
 # 💫 About Me
-🔭 I’m currently working on creating an job portal website.<br>
-🌱 Currently, I'm diving into Docker and Machine Learning to expand my development expertise. Open to collaborative projects and new learning opportunities, so feel free to connect!
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/5umit.__/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumittt) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/Sumit1711/)
 
-# 💻 Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+👋 Hi, I'm **Sumit**, a developer passionate about building useful applications and exploring new technologies.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+- 🔭 Currently building a **Job Portal Website**
+- 🌱 Learning **Docker, Machine Learning, C, and Rust**
+- 💻 Interested in **Full-Stack Development, Systems Programming, and Software Engineering**
+- 🧩 Practicing problem-solving and Data Structures & Algorithms on LeetCode
+- 🤝 Open to collaboration, open-source contributions, and exciting development projects
 
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=5umit1711&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.instagram.com/5umit.__/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/sumittt">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Sumit1711/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 🧠 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,javascript,python" alt="Programming Languages"/>
+</p>
+
+### 🌐 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,bootstrap,tailwind,jquery" alt="Frontend Technologies"/>
+</p>
+
+### ⚙️ Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+</p>
+
+### 🛠️ Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux" alt="Tools and Technologies"/>
+</p>
+
+### 📱 Mobile Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Context_API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Context API"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=5umit1711&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sumit's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5umit1711&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=5umit1711&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote" />
+</p>
+
+---
+
+## 🏆 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=5umit1711&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Build. Learn. Break things. Improve. Repeat.”</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
